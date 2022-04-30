@@ -14,7 +14,7 @@ run with "python downloader_mac.py"
 Done
 ```
 
-# Libraies used
+# Libraries used
 ```
 yt-dlp - https://github.com/yt-dlp/yt-dlp
 pystyle - https://pypi.org/project/pystyle/
